@@ -1,7 +1,7 @@
 # JPico
 
 > [!CAUTION]
-> This repo is very much a work in progress with many un-tested sections of code that frankly may not work yet, I will be adding a confidence flag for each component in the repo after testing.
+> This repo is very much a work in progress with many un-tested sections of code that frankly may not work yet, I will be adding a confidence flag for each component in the repo after testing. The whole setup of the repo may change also, splitting the individual components into their own respective repositories.
 
 JPico is a collection of utilities, tools and sensor interfaces compiled for the Pico 2 and thus uses the Pico SDK V2, specifically 2.1.1 at the moment.
 
