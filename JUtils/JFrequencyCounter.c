@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2025 Josh Smith
+ * Licensed under the MIT license.
+ */
+
 #include "JFrequencyCounter.h"
 
 // Initialize the frequency counter

@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2025 Josh Smith
+ * Licensed under the MIT license.
+ */
+
 #include "JSerial.h"
 
 // Initialize the Serial wrapper

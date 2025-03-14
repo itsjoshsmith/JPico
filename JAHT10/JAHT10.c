@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2025 Josh Smith
+ * Licensed under the MIT license.
+ */
+
 #include "JAHT10.h"
 
 // Initialize the JAHT10 sensor

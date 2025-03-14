@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2025 Josh Smith
+ * Licensed under the MIT license.
+ */
+
 #include "Ji2c.h"
 
 // Initialize Ji2c with only the address (default to i2c0)
